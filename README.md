@@ -26,6 +26,6 @@ Roza has a partially completed dashboard that she needs to finish. She has a com
 
 ![alt tag](https://github.com/elrvra/Plotly.js/blob/main/Resources/Deliverable3.png)
 
-- Deliverable 4: Customize the Dashboard
-
+- Deliverable 4: Customize the Dashboard (with three attributes out of selection)
+**Note, I've customized the (1) image to the jumbotron (2) background color (3) font and font color
 ![alt tag](https://github.com/elrvra/Plotly.js/blob/main/Resources/Deliverable4.png)
