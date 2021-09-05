@@ -27,5 +27,15 @@ Roza has a partially completed dashboard that she needs to finish. She has a com
 ![alt tag](https://github.com/elrvra/Plotly.js/blob/main/Resources/Deliverable3.png)
 
 - Deliverable 4: Customize the Dashboard (with three attributes out of selection)
-**Note, I've customized the (1) image to the jumbotron (2) background color (3) font and font color
+
+**Note, I've customized the (1) image to the jumbotron (2) background color (3) font and font color...
+
 ![alt tag](https://github.com/elrvra/Plotly.js/blob/main/Resources/Deliverable4.png)
+
+**When the dashboard is first opened in a browser, ID 940's data should be displayed in the dashboard, and the three charts should be working according to their requirements... 
+
+![alt tag](https://github.com/elrvra/Plotly.js/blob/main/Resources/Overallpic.png)
+
+
+
+
